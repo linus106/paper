@@ -14,7 +14,8 @@
   * [2.2容器生态系统](2wen-xian-zong-shu-3001/rong-qi-sheng-tai-xi-tong.md)
     * [2.2.1容器生态](2wen-xian-zong-shu-3001/rong-qi-sheng-tai-xi-tong/221.md)
   * [2.3软件部署的评价方法](2wen-xian-zong-shu-3001/4w1h.md)
-    * 2.3.1W4H
+    * [2.3.1W4H](2wen-xian-zong-shu-3001/4w1h/231w4h.md)
+    * [2.3.2QoM](2wen-xian-zong-shu-3001/4w1h/232.md)
 * [3设计](3she-ji.md)
 * [4案例](4an-li.md)
 * [5结论与展望](5zong-jie.md)

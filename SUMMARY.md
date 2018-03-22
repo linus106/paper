@@ -19,13 +19,14 @@
 * [3设计](3she-ji.md)
   * [3.1需求分析](3she-ji/31xu-qiu-fen-xi.md)
     * [3.1.1公司目前软件研发流程现状](3she-ji/31xu-qiu-fen-xi/311gong-si-mu-qian-ruan-jian-yan-fa-liu-cheng-xian-zhuang.md)
-    * [3.1.2软件发布现状](3she-ji/31xu-qiu-fen-xi/312ruan-jian-fa-bu-xian-zhuang.md)
-    * [3.1.3软件部署的现状](3she-ji/31xu-qiu-fen-xi/313ruan-jian-bu-shu-de-xian-zhuang.md)
+    * [3.1.2软件研发阶段的软件部署现状](3she-ji/31xu-qiu-fen-xi/312ruan-jian-fa-bu-xian-zhuang.md)
+    * [3.1.3现场实施运维阶段的软件部署现状](3she-ji/31xu-qiu-fen-xi/313ruan-jian-bu-shu-de-xian-zhuang.md)
+    * [3.1.4需求总结](3she-ji/31xu-qiu-fen-xi/314xu-qiu-zong-jie.md)
   * [3.2流程再设计](3she-ji/32liu-cheng-zai-she-ji.md)
   * [3.2架构设计](3she-ji/32jia-gou-she-ji.md)
-  * 3.3详细设计
+  * [3.3详细设计](3she-ji/33xiang-xi-she-ji.md)
 * [4案例](4an-li.md)
-  * 4.1模型评估
-  * 4.2实际项目
+  * [4.1模型评估](4an-li/41mo-xing-ping-gu.md)
+  * [4.2实际项目](4an-li/42shi-ji-xiang-mu.md)
 * [5结论与展望](5zong-jie.md)
 

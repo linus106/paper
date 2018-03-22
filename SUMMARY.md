@@ -17,6 +17,15 @@
     * [2.3.1W4H](2wen-xian-zong-shu-3001/4w1h/231w4h.md)
     * [2.3.2QoM](2wen-xian-zong-shu-3001/4w1h/232.md)
 * [3设计](3she-ji.md)
+  * [3.1需求分析](3she-ji/31xu-qiu-fen-xi.md)
+    * [3.1.1公司目前软件研发流程现状](3she-ji/31xu-qiu-fen-xi/311gong-si-mu-qian-ruan-jian-yan-fa-liu-cheng-xian-zhuang.md)
+    * [3.1.2软件发布现状](3she-ji/31xu-qiu-fen-xi/312ruan-jian-fa-bu-xian-zhuang.md)
+    * [3.1.3软件部署的现状](3she-ji/31xu-qiu-fen-xi/313ruan-jian-bu-shu-de-xian-zhuang.md)
+  * [3.2流程再设计](3she-ji/32liu-cheng-zai-she-ji.md)
+  * [3.2架构设计](3she-ji/32jia-gou-she-ji.md)
+  * 3.3详细设计
 * [4案例](4an-li.md)
+  * 4.1模型评估
+  * 4.2实际项目
 * [5结论与展望](5zong-jie.md)
 
